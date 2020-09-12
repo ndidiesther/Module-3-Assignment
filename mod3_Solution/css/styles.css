@@ -66,7 +66,7 @@ body {
 }
 .article a {
   text-decoration: none;
-  color:#9e00c5;
+  color:white;
 
 }
 body {
@@ -82,7 +82,7 @@ h2{
 }
 
 .content1{
-  border:2px solid black;
+  border:2px solid #9e00c5;
   padding: 10px;
   margin: 15px;
   position: relative;
@@ -90,7 +90,7 @@ h2{
 
 }
 .content2{
-  border:2px solid black;
+  border:2px solid #9e00c5;
   padding: 10px;
   margin: 15px;
   position: relative;
@@ -98,7 +98,7 @@ h2{
 
 }
 .content3{
-  border:2px solid black;
+  border:2px solid #9e00c5;
   padding: 10px;
   margin: 15px;
   position: relative;
